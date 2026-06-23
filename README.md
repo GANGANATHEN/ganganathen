@@ -16,30 +16,28 @@
 ### 👨‍💻 About Me
 I am a **Full-Stack Developer** with over 1 year of professional experience in crafting end-to-end web applications. I specialize in building high-performance, responsive, and visually engaging interfaces while maintaining robust backend architectures. 
 
-- 🛠 **Experience:** 1+ Year of hands-on experience in development.
-- 🚀 **Specialty:** Integrating 3D elements (Three.js), smooth animations (GSAP), and scalable backend services.
-- 🧠 **Continuous Learner:** Passionate about clean code, performance optimization, and innovative problem-solving.
+- 🛠 **Current Focus:** Creating immersive web experiences using **Three.js** & **GSAP**.
+- 🚀 **Specialty:** Bridging the gap between creative design and complex backend logic.
+- 🧠 **Goal:** Building seamless, scalable, and user-centric digital products.
 
 ### 💻 Technical Skills
-**Frontend:** Next.js, React.js, Three.js, TypeScript, JavaScript, Tailwind CSS, HTML5, CSS3, jQuery  
-**Backend:** Node.js, Express.js, Python, Java, C++  
-**Database & Cloud:** MongoDB, MySQL, REST Services  
-**Tools:** Git/GitHub, VS Code, Linux, IntelliJ
+**Frontend:** ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js) ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat&logo=three.js&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white)  
+**Backend:** ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
+**Database:** ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 ### 📈 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=GANGANATHEN&show_icons=true&theme=tokyonight&count_private=true" alt="Ganganathan's Stats" />
 </div>
 
-### 🚀 Featured Projects
-- **[Personal Portfolio](LINK)**: Built with Next.js, Three.js, and GSAP for immersive 3D experiences.
-- **[iPhone 15 Pro Showcase](LINK)**: Interactive UI with seamless scrolling animations.
-- **[Auth & Admin Dashboard](LINK)**: Secure authentication system with role-based access using Node.js & MySQL.
-
-### 💼 Experience
-**Web Development Intern** | Eminent Technology Solutions  
+### 💼 Professional Experience
+**Web Development Intern** | **Eminent Technology Solutions**  
 *Nov 2023 – Dec 2023*
-- Contributed to professional web page design and software optimization tasks.
+- Gained hands-on experience in web design and software lifecycle management.
+
+**Software Developer** | **IMUII TECHNOLOGY PRIVATE LIMITED**  
+*Present*
+- Developing and maintaining scalable web applications.
 
 ---
 <div align="center">
