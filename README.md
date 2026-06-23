@@ -25,11 +25,6 @@ I am a **Full-Stack Developer** with over 1 year of professional experience in c
 **Backend:** ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
 **Database:** ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-### 📈 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GANGANATHEN&show_icons=true&theme=tokyonight&count_private=true" alt="Ganganathan's Stats" />
-</div>
-
 ### 💼 Professional Experience
 **Web Development Intern** | **Eminent Technology Solutions**  
 *Nov 2023 – Dec 2023*
