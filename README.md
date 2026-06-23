@@ -1,23 +1,47 @@
-# Hi there! 👋
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=38B2AC&width=435&lines=Hi!+I'm+Ganganathan;Full-Stack+Developer;Building+Scalable+Web+Apps" alt="Typing SVG" />
 
-I'm **Ganganathan**, a passionate Full-Stack Developer 🚀.
+  <p>Front-End & Back-End Enthusiast | Building Digital Experiences</p>
+  
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_ID">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:YOUR_EMAIL_ID">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
 
-### 🔭 What I'm currently working on
-- Building a professional portfolio with **Next.js, Three.js, and GSAP**.
-- Exploring advanced state management and 3D web animations.
+---
 
-### 🛠 Tech Stack
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![Tailwind](https://img.shields.io/badge/tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+### 👨‍💻 About Me
+I am a **Full-Stack Developer** with over 1 year of professional experience in crafting end-to-end web applications. I specialize in building high-performance, responsive, and visually engaging interfaces while maintaining robust backend architectures. 
+
+- 🛠 **Experience:** 1+ Year of hands-on experience in development.
+- 🚀 **Specialty:** Integrating 3D elements (Three.js), smooth animations (GSAP), and scalable backend services.
+- 🧠 **Continuous Learner:** Passionate about clean code, performance optimization, and innovative problem-solving.
+
+### 💻 Technical Skills
+**Frontend:** Next.js, React.js, Three.js, TypeScript, JavaScript, Tailwind CSS, HTML5, CSS3, jQuery  
+**Backend:** Node.js, Express.js, Python, Java, C++  
+**Database & Cloud:** MongoDB, MySQL, REST Services  
+**Tools:** Git/GitHub, VS Code, Linux, IntelliJ
 
 ### 📈 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GANGANATHEN&show_icons=true&theme=tokyonight" alt="Ganganathan's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GANGANATHEN&show_icons=true&theme=tokyonight&count_private=true" alt="Ganganathan's Stats" />
 </div>
 
-### 📫 Reach out to me
-- **LinkedIn:** [Your Profile Link]
-- **Portfolio:** [Your Website Link]
-- **Email:** [Your Email Address]
+### 🚀 Featured Projects
+- **[Personal Portfolio](LINK)**: Built with Next.js, Three.js, and GSAP for immersive 3D experiences.
+- **[iPhone 15 Pro Showcase](LINK)**: Interactive UI with seamless scrolling animations.
+- **[Auth & Admin Dashboard](LINK)**: Secure authentication system with role-based access using Node.js & MySQL.
+
+### 💼 Experience
+**Web Development Intern** | Eminent Technology Solutions  
+*Nov 2023 – Dec 2023*
+- Contributed to professional web page design and software optimization tasks.
+
+---
+<div align="center">
+  <p>Let's connect and build something amazing together! ☕</p>
+</div>
