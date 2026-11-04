@@ -36,5 +36,5 @@ I am a **Full-Stack Developer** with over 1 year of professional experience in c
 
 ---
 <div align="center">
-  <p>Let's connect and build something amazing together! ☕</p>
+  <p>Let's connect and build something amazing together! 🥛</p>
 </div>
